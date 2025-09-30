@@ -1,8 +1,8 @@
 /*
- *@author
- *@version
- *@date
- *@fileoverview
+ *@author Zoe Wrubleski
+ *@version 1.0.0
+ *@date 2025-09-30
+ *@fileoverview This program practices using code to solving math problems
  */
 
 package main
